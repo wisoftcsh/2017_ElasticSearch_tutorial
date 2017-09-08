@@ -190,8 +190,8 @@ Kibana 연동
 ---
 kibana.yml 파일 검색 ( max : /usr/local/etc/kibana.yml )
 
-###server.host: "localhost"
-###elasticsearch.url: "http://localhost:9200" 
-###수정해야 외부접속 가능
+###server.host: "localhost" <br>
+###elasticsearch.url: "http://localhost:9200" <br>
+###수정해야 외부접속 가능<br>
 
 
